@@ -4,3 +4,5 @@
 [Data Exploration](/Data-Exploration)
 
 [Linear Models](/Linear-Models)
+
+[ML Algorithms from Scratch](/ML-Algorithms-from-Scratch)
