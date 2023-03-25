@@ -1,4 +1,4 @@
-#About the project
+# About the project
 
 • Learned similarity models such as kNN and Decision Trees
 
