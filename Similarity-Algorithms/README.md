@@ -1,4 +1,5 @@
-Objectives:
-• Gain experience with machine learning using similarity models kNN and Decision Trees
-• Gain experience with clustering methods kMeans, hierarchical clustering
-• Gain experience with dimensionality reduction techniques LDA and PCA
+##About the project
+
+• Learned similarity models such as kNN and Decision Trees
+• Gained experience with clustering methods kMeans, hierarchical clustering
+• Used dimensionality reduction techniques LDA and PCA
