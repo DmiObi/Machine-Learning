@@ -2,6 +2,6 @@
 
 • Learned similarity models such as kNN and Decision Trees
 
-• Gained experience with clustering methods kMeans, hierarchical clustering
+• Gained experience with clustering methods kMeans and hierarchical clustering
 
-• Used dimensionality reduction techniques LDA and PCA
+• Used dimensionality reduction techniques such as LDA and PCA
