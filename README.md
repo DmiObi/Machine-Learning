@@ -6,3 +6,5 @@
 [Linear Models](/Linear-Models)
 
 [ML Algorithms from Scratch](/ML-Algorithms-from-Scratch)
+
+[Similarity Algorithms](/Similarity-Algorithms)
