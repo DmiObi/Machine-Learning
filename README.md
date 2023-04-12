@@ -8,3 +8,5 @@
 [ML Algorithms from Scratch](/ML-Algorithms-from-Scratch)
 
 [Similarity Algorithms](/Similarity-Algorithms)
+
+[Python ML with sklearn](/ml_sklearn.pdf)
