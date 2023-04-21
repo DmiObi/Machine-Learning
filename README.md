@@ -10,3 +10,5 @@
 [Similarity Algorithms](/Similarity-Algorithms)
 
 [Python ML with sklearn](/ml_sklearn.pdf)
+
+[Image Classification](/image_classification.pdf)
