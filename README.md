@@ -15,3 +15,5 @@ Bayesian networks, Markov Models, and reinforcement learning. Learning all those
 [Python ML with sklearn](/ml_sklearn.pdf)
 
 [Image Classification](/image_classification.pdf)
+
+[Acquired Skills](/acquired_skills.pdf)
